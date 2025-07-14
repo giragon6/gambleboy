@@ -1,0 +1,4 @@
+.notused
+.venv
+__pycache__
+*.pyc
