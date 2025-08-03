@@ -9,6 +9,7 @@ Use your badge to go into crippling debt, win a glimpse of hope, and then lose i
 Demo video: https://youtube.com/shorts/QCVmkOCzpqU?feature=share
 
 ![Undercity badge with balance in the top right corner and a "let's go gambling!" screen](https://hc-cdn.hel1.your-objectstorage.com/s/v3/092818953578cc6fd294c812efa3f16d8ce61144_img_7307.jpg)
+<img width="519" height="506" alt="Wiring diagram" src="https://github.com/user-attachments/assets/4f02db1d-63fe-4193-958e-97b6c6a44626" />
 
 BOM:
 - Raspberry Pi Zero 2 W
